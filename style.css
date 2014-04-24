@@ -142,3 +142,8 @@ a{
 	text-decoration: none;
 	color: #565658;
 }
+.footer {
+	margin-top: 361px;
+	background-color: #80FF9F;
+	text-align: center;
+}
